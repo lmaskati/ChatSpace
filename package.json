@@ -2,7 +2,7 @@
   "name": "assignment4_dev",
   "version": "1.0.0",
   "description": "##Design I chose lilac, grey and white as my theme colors. My chatroom has a simple interface, which is easy to navigate. When a user hovers over a button, a shadow appears below it.",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
   },
