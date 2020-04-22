@@ -1,0 +1,76 @@
+body {
+    background-color: #ccccff;
+}
+
+h1 {
+	text-align: center;
+}
+
+#listofusers {
+    text-align: center;
+}
+
+#update {
+    text-align: center;
+}
+
+#feedback {
+    text-align: center;
+}
+
+.wrapper{
+	margin: 50px;
+	min-width: 400px;
+}
+
+.content{
+    text-align: center;
+}
+
+#mypost{
+	background: white;
+    border: 2px solid grey;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.userinput{
+	    text-align: center;
+    padding-bottom: 5px;
+    margin-bottom: 40px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid white;
+    background-color: #a3bbe2;
+    color: white;
+    font-style: italic;
+}
+
+button{
+    border-radius: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    border: 2px solid;
+}
+
+button:hover{
+    box-shadow: 2px 3px grey;
+    cursor: pointer;
+}
+
+#thetime{
+    color: grey;
+    font-style: italic;
+}
+
+ul{
+      width: min-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+li {
+    width: min-content;
+}
