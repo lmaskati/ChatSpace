@@ -4,7 +4,8 @@
   "description": "##Design I chose lilac, grey and white as my theme colors. My chatroom has a simple interface, which is easy to navigate. When a user hovers over a button, a shadow appears below it.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+"start": "node home.js"
   },
   "author": "",
   "license": "ISC"
